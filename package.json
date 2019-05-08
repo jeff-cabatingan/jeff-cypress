@@ -1,0 +1,17 @@
+{
+  "name": "jeff-cypress-master",
+  "version": "1.0.0",
+  "description": "learn cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "cypress:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeff-cabatingan/jeff-cypress.git"
+  },
+  "devDependencies": {
+    "cypress": "^3.2.0"
+  }
+}
